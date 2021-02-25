@@ -30,6 +30,12 @@ It will open up a form with 2 tabs on the top, Settings and Info. In the Setting
 
 <img src={useBaseUrl("img/metamask/metamask-settings-mumbai.png")} />
 
+Network name: Mumbai Testnet
+New RPC URL: https://rpc-mumbai.maticvigil.com/
+Chain ID: 80001
+Currency Symbol (optional): MATIC
+Block Explorer URL (optional): https://mumbai-explorer.matic.today
+
 Once you’ve added the URL in the New Network field, click on Save. You will be directly switched to Matic’s Mumbai-Testnet now in the network dropdown list. You can now close the dialog.
 </TabItem>
 
